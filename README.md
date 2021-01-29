@@ -3,10 +3,8 @@
 
 ## Overview ##
 
-- This bundle is an not an official bundle of the DevExpress team.
-- This bundle does not include any files related to the DevExpress libraries
-- This bundle provides a simple (and incomplete) bridge between the DevExpressJs widgets and doctrine
-- This bundle is a WIP and PR are more than welcome
+- This is a fork for Elma/devexpressbundle
+- The only reason to fork is to try make it working with Symfony5
 
 Currently only a dxDataGrid bridge is provided
 
